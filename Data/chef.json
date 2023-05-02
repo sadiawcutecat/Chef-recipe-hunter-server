@@ -1,0 +1,53 @@
+{
+    "chefs": [
+      {
+        "id":1,
+        "name": "Chef John",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": 1000,
+        "chef_url": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg"
+      },
+      {
+        "id":2,
+        "name": "Chef Jane",
+        "years_of_experience": 15,
+        "num_recipes": 75,
+        "likes": 2000,
+        "chef_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIhJFmlPEvuwzuEOBYI1HdqM-5VCzwzQXIqiRgklz5fpr-0i7WQsJnW5GVaQcVyORn9hE&usqp=CAU"
+      },
+      {
+        "id":3,
+        "name": "Chef Dave",
+        "years_of_experience": 8,
+        "num_recipes": 40,
+        "likes": 800,
+        "chef_url": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg"
+      },
+      {
+        "id":4,
+        "name": "Chef Maria",
+        "years_of_experience": 12,
+        "num_recipes": 60,
+        "likes": 1500,
+        "chef_url": "https://www.simplybusiness.co.uk/static/896d58b532c8e2ec7ac1719fe62b37ae/b6518/how-to-become-a-chef.jpg"
+      },
+      {
+        "id":5,
+        "name": "Chef Alex",
+        "years_of_experience": 6,
+        "num_recipes": 30,
+        "likes": 500,
+        "chef_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-WX8TrKfYD6R8-ssAyQWM0H47P4RCfS0MXA&usqp=CAU"
+      },
+      {
+        "id":6,
+        "name": "Chef Sarah",
+        "years_of_experience": 20,
+        "num_recipes": 100,
+        "likes": 3000,
+        "chef_url": "https://www.escoffier.edu/wp-content/uploads/2016/02/Smiling-female-chef-with-white-hat-and-uniform-in-a-kitchen-e1611773135718.jpg"
+        
+      }
+    ]
+  }

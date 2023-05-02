@@ -1,0 +1,53 @@
+{
+    "recipe":[
+        {
+            "id": 1,
+            "name": "Spaghetti Bolognese",
+            "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/09/Spaghetti-Bolognese-square-FS-0204.jpg",
+            "likes": 1500,
+            "description": "This Spaghetti Bolognese recipe is a classic Italian dish that's hearty and delicious.",
+            "prep_time": "10 minutes",
+            "cook_time": "30 minutes"
+        },
+        {
+            "id": 2,
+            "name": "Chicken Curry",
+            "image": "https://feastwithsafiya.com/wp-content/uploads/2022/03/chicken-curry-recipe.jpg",
+            "likes": 3000,
+            "description": "This Chicken Curry recipe is a flavorful and aromatic dish that's perfect for a cozy night in.",
+            "prep_time": "15 minutes",
+            "cook_time": "30 minutes"
+        },
+        {
+            "id": 3,
+            "name": "Spaghetti Bolognese sauce",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvDKHVsArV19lWvjrL0wBUKsQaDqWgQUkyg&usqp=CAU",
+            "likes": 1500,
+            "description": "This Spaghetti Bolognese recipe is a classic Italian dish that's hearty and delicious.",
+            "prep_time": "10 minutes",
+            "cook_time": "30 minutes"
+        },
+        {
+            "id": 4,
+            "name": "Chicken Alfredo",
+            "image": "https://www.jessicagavin.com/wp-content/uploads/2019/08/chicken-alfredo-8-1200.jpg",
+            "description": "This Chicken Alfredo recipe is a classic and easy Italian dish that's perfect for any occasion.",
+            "prep_time": "10 minutes",
+            "cook_time": "20 minutes",
+            "total_time": "30 minutes",
+            "servings": 4,
+            "calories": 400,
+            "cuisine": "Italian"
+        },
+        {
+            "id": 5,
+            "name": "Pesto Pasta",
+            "image": "https://www.simplyrecipes.com/thmb/khBkgo_d8X47lpDkttzxS_gbtpg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2006__07__pesto-pasta-salad-horiz-a-1600-764a317a37664910b66f6f608adf8980.jpg",
+            "description": "Spaghetti Bolognese is a classic Italian dish that is loved by many. This recipe is easy to make and tastes delicious.",
+            "prep_time": "15 minutes",
+            "cook_time": "45 minutes",
+            "likes": 12
+        }
+        
+    ]
+}
