@@ -12,6 +12,7 @@ app.get('/', (req, res) => {
 
   app.get('/chefData',(req, res)=>{
     res.send(chefData);
+    console.log(chefData);
   })
   app.listen(port,()=>{
     console.log(`server api is running on port :${port}`);
