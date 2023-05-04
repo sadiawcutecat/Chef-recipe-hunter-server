@@ -76,7 +76,7 @@
               "1/2 cup olive oil",
               "3 cloves garlic"
             ],
-            "cookingMethod": "1. Cook spaghetti according to package instructions. \n2. In a food processor, pulse the basil, Parmesan cheese, garlic, and olive oil until smooth. \n3. Toss the cooked spaghetti with the pesto sauce. Serve hot or cold.",
+            "method": "1. Cook spaghetti according to package instructions. \n2. In a food processor, pulse the basil, Parmesan cheese, garlic, and olive oil until smooth. \n3. Toss the cooked spaghetti with the pesto sauce. Serve hot or cold.",
             "rating": 4.5,
             "favorite": false
           },
@@ -89,7 +89,7 @@
               "1 tablespoon dried oregano",
               "1 tablespoon garlic powder"
             ],
-            "cookingMethod": "1. Preheat grill to medium-high heat. \n2. In a small bowl, whisk together olive oil, thyme, oregano, and garlic powder. \n3. Brush chicken with the herb mixture. \n4. Grill chicken for 6-8 minutes per side or until cooked through. Serve hot.",
+            "method": "1. Preheat grill to medium-high heat. \n2. In a small bowl, whisk together olive oil, thyme, oregano, and garlic powder. \n3. Brush chicken with the herb mixture. \n4. Grill chicken for 6-8 minutes per side or until cooked through. Serve hot.",
             "rating": 4.2,
             "favorite": false
           },
@@ -106,7 +106,7 @@
               "2 teaspoons vanilla extract",
               "2 cups semisweet chocolate chips"
             ],
-            "cookingMethod": "1. Preheat oven to 375°F. \n2. In a small bowl, whisk together flour, baking soda, and salt. \n3. In a large bowl, beat together butter, white sugar, brown sugar, eggs, and vanilla extract until smooth. \n4. Gradually stir in the flour mixture. \n5. Fold in chocolate chips. \n6. Drop rounded spoonfuls of dough onto an ungreased cookie sheet. \n7. Bake for 8-10 minutes or until lightly golden brown. Cool on wire rack.",
+            "method": "1. Preheat oven to 375°F. \n2. In a small bowl, whisk together flour, baking soda, and salt. \n3. In a large bowl, beat together butter, white sugar, brown sugar, eggs, and vanilla extract until smooth. \n4. Gradually stir in the flour mixture. \n5. Fold in chocolate chips. \n6. Drop rounded spoonfuls of dough onto an ungreased cookie sheet. \n7. Bake for 8-10 minutes or until lightly golden brown. Cool on wire rack.",
             "rating": 4.8,
             "favorite": false
           }
