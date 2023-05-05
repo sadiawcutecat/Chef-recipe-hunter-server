@@ -2,11 +2,12 @@
     "chefs": [
       {
         "id":1,
-        "name": "Chef John",
+        "name": "Chef Massimo Bottura",
+        "description":"Massimo Bottura is an Italian chef and restaurateur. He is the owner and chef of Osteria Francescana in Modena, Italy, which has been ranked as the world's best restaurant several times. Bottura is known for his innovative and creative approach to Italian cuisine.",
         "years_of_experience": 10,
         "num_recipes": 50,
         "likes": 1000,
-        "chef_url": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+        "chef_url": "https://c8.alamy.com/comp/E2N43J/massimo-bottura-is-the-chef-patron-of-3-michelin-star-and-worlds-3rd-E2N43J.jpg",
         "recipes": [
           {
             "name": "Grilled Chicken Skewers",
@@ -61,11 +62,12 @@
       },
       {
         "id":2,
-        "name": "Chef Jane",
+        "name": "Chef Lidia Bastianich",
+        "description":"Lidia Bastianich is an Italian-American celebrity chef, television host, author, and restaurateur. She is the owner of several restaurants in the United States, including Felidia and Becco in New York City. Bastianich is known for her traditional Italian dishes and simple yet elegant cooking style.",
         "years_of_experience": 15,
         "num_recipes": 75,
         "likes": 2000,
-        "chef_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIhJFmlPEvuwzuEOBYI1HdqM-5VCzwzQXIqiRgklz5fpr-0i7WQsJnW5GVaQcVyORn9hE&usqp=CAU",
+        "chef_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSupZCAyzvxoyxAHMwcDZ5-FBvXRCSB1ptDMA&usqp=CAU",
         "recipes": [
           {
             "name": "Pesto Pasta",
@@ -115,11 +117,12 @@
       },
       {
         "id":3,
-        "name": "Chef Dave",
+        "name": "Chef Gennaro Contaldo",
+        "description":"Gennaro Contaldo is an Italian chef and restaurateur who is based in the United Kingdom. He is the co-owner of the Italian restaurant Passione in London. Contaldo is known for his authentic and rustic Italian dishes, and he has appeared on several cooking shows, including Jamie Oliver's Food Tube.",
         "years_of_experience": 8,
         "num_recipes": 40,
         "likes": 800,
-        "chef_url": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+        "chef_url": "https://i2-prod.walesonline.co.uk/incoming/article8732542.ece/ALTERNATES/s615/gennaro.jpg",
         "recipes": [
           {
             "name": "Spaghetti Bolognese",
@@ -180,11 +183,12 @@
       },
       {
         "id":4,
-        "name": "Chef Maria",
+        "name": "Chef Carlo Cracco",
+        "description":"Carlo Cracco is an Italian chef and restaurateur. He is the owner of the restaurant Cracco in Milan, Italy, which has been awarded three Michelin stars. Cracco is known for his contemporary take on Italian cuisine, and he has appeared as a judge on the Italian version of MasterChef.",
         "years_of_experience": 12,
         "num_recipes": 60,
         "likes": 1500,
-        "chef_url": "https://www.simplybusiness.co.uk/static/896d58b532c8e2ec7ac1719fe62b37ae/b6518/how-to-become-a-chef.jpg",
+        "chef_url": "https://satopiatravel.com/wp-content/uploads/2020/01/dinners-by-carlo-cracco.jpg",
         "recipes": [
           {
             "name": "Beef Wellington",
@@ -229,11 +233,12 @@
       },
       {
         "id":5,
-        "name": "Chef Alex",
+        "name": "Chef Giada De Laurentiis",
+        "description":"Giada De Laurentiis is an Italian-American chef, television personality, and author. She is the host of several cooking shows on Food Network, including Giada at Home and Everyday Italian. De Laurentiis is known for her modern twist on Italian classics and her focus on fresh, simple ingredients.",
         "years_of_experience": 6,
         "num_recipes": 30,
         "likes": 500,
-        "chef_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-WX8TrKfYD6R8-ssAyQWM0H47P4RCfS0MXA&usqp=CAU",
+        "chef_url": "https://assets.wsimgs.com/wsimgs/ab/images/i/202306/0007/images/pages/chefs/img_hero_giada.jpg",
         "recipes": [
           {
             "name": "Boeuf Bourguignon",
@@ -281,11 +286,12 @@
       },
       {
         "id":6,
-        "name": "Chef Sarah",
+        "name": "Chef Massimiliano Alajmo",
+        "description":"Massimiliano Alajmo is an Italian chef and restaurateur. He is the owner of the restaurant Le Calandre in Padua, Italy, which has been awarded three Michelin stars. Alajmo is known for his creative and innovative approach to Italian cuisine, and he has been named the youngest chef to receive three Michelin stars.",
         "years_of_experience": 20,
         "num_recipes": 100,
         "likes": 3000,
-        "chef_url": "https://www.escoffier.edu/wp-content/uploads/2016/02/Smiling-female-chef-with-white-hat-and-uniform-in-a-kitchen-e1611773135718.jpg",
+        "chef_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrGaUtPvEglvuFfwZAE46cqT7h1bD58O7cxVjRdvFHYxjxUzD60fNcsx07oGv2Pr7s-uM&usqp=CAU",
         "recipes": [
           {
             "name": "Spaghetti Bolognese",
